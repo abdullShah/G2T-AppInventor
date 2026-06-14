@@ -2,9 +2,9 @@
 
 Приложение на [MIT App Inventor](https://ai2.appinventor.mit.edu/) для пересылки медиа-файлов из галереи в мессенджеры и социальные сети.
 
-![Главный экран](assets/mainScreen.jpg)
-
-![Рабочий экран](assets/workScreen.jpg)
+| Главный экран | Рабочий экран |
+| :---: | :---: |
+| ![Главный экран](assets/mainScreen.jpg) | ![Рабочий экран](assets/workScreen.jpg) |
 
 ## Возможности
 
