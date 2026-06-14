@@ -34,7 +34,7 @@
 
 ## Используемые расширения
 
-1. Вдохновившись [Exif-парсера](https://github.com/natejank/appinventor-exifparser), был реализован свой [парсер](https://github.com/abdullShah/Parsemedia-AppInventor) для получения даты из медиа-файлов.
-2. Вдохновившись [Фото-пикера](https://community.appinventor.mit.edu/t/single-multiple-image-picker-video-picker-audio-picker-documents-picker-etc/159015), был реализован свой [Медиа-пикер](), который выбирает не только фото, но и видео.
+1. Вдохновившись [Exif-парсера](https://github.com/natejank/appinventor-exifparser), был реализован свой [Медиа-парсер](https://github.com/abdullShah/Parsemedia-AppInventor) для получения даты из медиа-файлов.
+2. Вдохновившись [Фото-пикера](https://community.appinventor.mit.edu/t/single-multiple-image-picker-video-picker-audio-picker-documents-picker-etc/159015), был реализован свой [Медиа-пикер](https://github.com/abdullShah/GalleryPicker-AppInventor), который выбирает не только фото, но и видео.
 3. [Расширение для копирования в буфер обмена](https://puravidaapps.com/clipboard.php)
 4. [Расширение для обмена сообщениями](https://community.appinventor.mit.edu/t/sharingtools-extension-free-open-source/23992)
